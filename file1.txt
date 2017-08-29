@@ -1,6 +1,6 @@
-print("hello world");
+print("HELLO WORLD");
 
-input("Tell me what date it is");
+input("TELL ME WHAT DATE IT IS");
 
 
 
