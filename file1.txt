@@ -1,6 +1,5 @@
 print("HELLO THE WHOLE WORLD");
 
-input("Tell Me what date it is");
-
-
+input("Tell Me what date it is")
+print("Yulan Fang:)")
 
